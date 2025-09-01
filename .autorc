@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dromero14521",
+  "repo": "container-7ch9cdc",
+  "name": "dromero14521",
+  "email": "dromero14521@gmail.com",
+}
